@@ -10,7 +10,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <milton.version>2.6.2.2</milton.version>
+        <milton.version>3.1.1.413</milton.version>
     </properties>
 
     <build>
@@ -46,7 +46,7 @@
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-log4j12</artifactId>
-            <version>1.6.1</version>
+            <version>1.7.34</version>
         </dependency>
         <dependency>
             <groupId>io.milton</groupId>
